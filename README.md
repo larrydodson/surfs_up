@@ -13,7 +13,7 @@ UTMCC DataViz Module 9
 
    ### Resources
   * Data sources: 
-  * Software: Windows10, Python 3.8.3, Pandas, Jupyter Notebook, VS Code 1.49.1, SQLite database
+  * Software: Windows10, Python 3.8.3, Pandas, SQLAlchemy, Jupyter Notebook, VS Code 1.49.1, SQLite database
   
   
 --- 
