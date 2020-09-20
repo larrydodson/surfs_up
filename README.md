@@ -1,8 +1,28 @@
 # surfs_up
 UTMCC DataViz Module 9
 
-## Overview and Purpose
 
+
+## Contents 
+  * 
+  * 
+  * 
+  * 
+  
+  Deliverable 1: Determine the Summary Statistics for June
+  Deliverable 2: Determine the Summary Statistics for December
+  Deliverable 3: A written report for the statistical analysis (This report) 
+  
+  
+---  
+
+
+## Overview and Purpose
+ 
+ 
+ 
+ 
+ 
 --- 
 
   In preparation . 
@@ -22,6 +42,13 @@ UTMCC DataViz Module 9
 
 
   ### Deliverable 1 -
+  
+  
+  
+.
+
+  ### Deliverable 2 -
+
 
 
 
