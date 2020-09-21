@@ -41,7 +41,7 @@ UTMCC DataViz Module 9
    
    | Summary Stats - June | Notes |
    | :---:  | :---  |
-   | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) | * represents Dec Temps from Dec 2010 through to Dec 2016. n\ * amcd slsl flslkj ssl lslflsl. n\ * dcds lsllsll jfkjlslk lsls l. |
+   | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) | * represents Dec Temps from Dec 2010 through to Dec 2016. <br> * amcd slsl flslkj ssl lslflsl. <br> * dcds lsllsll jfkjlslk lsls l. |
   
   
   
