@@ -4,9 +4,10 @@ UTMCC DataViz Module 9
 
 ## Contents 
   * Overview
-   * Purpose
-   * Resources
-  * .
+    - Purpose
+    - Resources
+  * Results
+  * Summary
  
   
   - Deliverable 1: Determine the Summary Statistics for June
@@ -28,7 +29,6 @@ UTMCC DataViz Module 9
    ### Resources
   * Data sources: hawaii.sqlite file
   * Software: Windows10, Python 3.8.3, Pandas, SQLAlchemy, Jupyter Notebook, VS Code 1.49.1, SQLite database
-  
 
 .
  
@@ -37,13 +37,13 @@ UTMCC DataViz Module 9
 ## Results
   (Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.)
 
-  ### Deliverable 1 -
+  ### Deliverable 1 - Determine the Summary Statistics for June
   
   
   
 .
 
-  ### Deliverable 2 -
+  ### Deliverable 2 - Determine the Summary Statistics for December
 
 
 
