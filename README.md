@@ -39,12 +39,14 @@ UTMCC DataViz Module 9
 
   ### Deliverable 1 - Determine the Summary Statistics for June
   
+   ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png)
   
   
 .
 
   ### Deliverable 2 - Determine the Summary Statistics for December
-
+  
+   ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png)
 
 
 .  
