@@ -52,7 +52,7 @@ UTMCC DataViz Module 9
   
    | Summary Stats - December | Notes |
    | :---:  | :---  |
-   | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) | Represents Temperatures from Dec 2010 through Dec 2016. <br> <br> <br>  * Amcd slsl flslkj ssl lslflsl. <br> * Gcds lsllsll jfkjlslk lsls lhhh. <br> * Dcds lsllsll jfkjlslk lsls l. |
+   | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) | Represents Temperatures from Dec 2010 through Dec 2016. <br> <br> <br>  * Amcd slsl flslkj ssl lslflsl. <br> * Gcds lsllsll jfkjlslk lsls lhhh. <br> * Dcds lsllsll jfkjlslk lsls l. \ abcdef alalf hih jkkk l. \\ alsldkjf \\ jjjkalld. |
    
    
 .  
