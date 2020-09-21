@@ -38,17 +38,23 @@ UTMCC DataViz Module 9
   (Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.)
 
   ### Deliverable 1 - Determine the Summary Statistics for June
+   
+   | Summary Stats - June | Notes |
+   | :---:  | :---  |
+   | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) |   |
   
-   ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png)
+  
   
   
 .
 
   ### Deliverable 2 - Determine the Summary Statistics for December
   
-   ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png)
-
-
+   | Summary Stats - December | Notes |
+   | :---:  | :---  |
+   | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) |   |
+   
+   
 .  
 
 ---
