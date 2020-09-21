@@ -10,9 +10,9 @@ UTMCC DataViz Module 9
   * Summary
  
   
-  - Deliverable 1: Determine the Summary Statistics for June
-  - Deliverable 2: Determine the Summary Statistics for December
-  - Deliverable 3: A written report for the statistical analysis (This report) 
+   - Deliverable 1: Determine the Summary Statistics for June
+   - Deliverable 2: Determine the Summary Statistics for December
+   - Deliverable 3: A written report for the statistical analysis (This report) 
   
 .
 
@@ -41,7 +41,7 @@ UTMCC DataViz Module 9
    
    | Summary Stats - June | Notes |
    | :---:  | :---  |
-   | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) | * represents Temps from June 2010 through June 2017. <br> <br> <br>  * amcd slsl flslkj ssl lslflsl. <br> * dcds lsllsll jfkjlslk lsls l. |
+   | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) | Represents Temperatures from June 2010 to June 2017. <br> <br> <br>  * Bmcd slsl flslkj ssl lslflsl. <br> * Ecds lsllsll jfkjlslk lsls ldfdd. <br> * Mcds lsllsll jfkjlslk lsls l. |
   
   
   
@@ -52,7 +52,7 @@ UTMCC DataViz Module 9
   
    | Summary Stats - December | Notes |
    | :---:  | :---  |
-   | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) | * represents Temps from Dec 2010 through Dec 2016. <br> <br> <br>  * amcd slsl flslkj ssl lslflsl. <br> * dcds lsllsll jfkjlslk lsls l.  |
+   | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) | Represents Temperatures from Dec 2010 through Dec 2016. <br> <br> <br>  * Amcd slsl flslkj ssl lslflsl. <br> * Gcds lsllsll jfkjlslk lsls lhhh. <br> * Dcds lsllsll jfkjlslk lsls l. |
    
    
 .  
