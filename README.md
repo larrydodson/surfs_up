@@ -37,13 +37,9 @@ UTMCC DataViz Module 9
    
    | **Deliverable 1** | **Deliverable 2** |
    | :---:  | :---:  |
-   | Summary Stats - June Temperatures <br> <br> Represents Temperatures from June 2010 to June 2017. <br>  | Summary Stats - December Temperatures <br> <br> Represents Temperatures from Dec 2010 through Dec 2016.<br> |
+   | Summary Stats - June Temperatures <br> Represents Temperatures from June 2010 to June 2017 | Summary Stats - December Temperatures <br> Represents Temperatures from Dec 2010 through Dec 2016 |
    | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) |
 
-  
-.
-
-  ### Deliverable 2 - Determine the Summary Statistics for December
 
 
    #### Major Points of Analysis on the Statistics Summaries 
@@ -60,7 +56,12 @@ UTMCC DataViz Module 9
 ## Summary 
   (Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.)
 
- **Figure A: Comparison of Temperatures June and December, 2010 to 2017, Oahu <br> 
+
+
+
+
+
+ **Figure A: Comparison of Temperatures June and December, 2010 to 2017, Oahu** <br> 
  ![Temps-graph.png](https://github.com/larrydodson/surfs_up/blob/master/Temps-graph.png)
 
 
@@ -68,9 +69,6 @@ UTMCC DataViz Module 9
 | **Figure B: <br> Summary Stats, Precipitation** | **Figure C: <br> Oahu Precipitation, Aug 2016 to Aug 2017** |
 | :---: | :---: |
 | ![precipitation_stats.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_stats.png) | ![precipitation_line.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_line.png) |
-
-
-
 
 
 .
