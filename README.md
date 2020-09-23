@@ -43,9 +43,9 @@ UTMCC DataViz Module 9
 
 
    #### Major Points of Analysis on the Statistics Summaries 
-   1. For Temperatures from the months of June and December, the mean for June is 74.9°F and for Dec is 71.0°F, an approximate difference of 4°F. 
-   2. For 
-   3. blsllfjj akjf
+   1. For Temperatures from the months of June and December, the mean for June is 74.9°F and for Dec is 71.0°F, a difference of 3.9°F. 
+   2. The quartiles and the interquartile ranges (IQR) within each month's range indicate spreads from 2 to 4 degrees.  
+   3. The largest differences in temperatures within a month's range, and also between June vs. December are at the minimum Temps, with June's at 64°F and December's at 56°F.
 
    
 .  
@@ -54,11 +54,14 @@ UTMCC DataViz Module 9
 
 
 ## Summary 
-  (Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.)
+
+  * Temperatures are relatively consistent with deltas of 2-5 °F when comparing the months of June and December over the multiple years, see Figure A below. Barring a few typical weather spikes, these spreads should be consistent during the other months of the year, and not be major factor to the success of the new business. 
+  * To note, the largest change in temperature is at the minimums for both months, with December at 56 and June at 64. It may be expected that there could be a lower time of business at these lower temperatures, especially for ice cream sales. 
 
 
-
-
+  **Additional queries**:
+  1. abc
+  2. cdef
 
 
  **Figure A: Comparison of Temperatures June and December, 2010 to 2017, Oahu** <br> 
