@@ -56,12 +56,12 @@ UTMCC DataViz Module 9
 ## Summary 
 
   * Temperatures are relatively consistent with deltas of 2-5 °F when comparing the months of June and December over the multiple years, see Figure A below. Barring a few typical weather spikes, these spreads should be consistent during the other months of the year, and not be major factor to the success of the new business. 
-  * To note, the largest change in temperature is at the minimums for both months, with December at 56 and June at 64. It may be expected that there could be a lower time of business at these lower temperatures, especially for ice cream sales. 
+  * To note, the largest change in temperature is at the minimums for both months, with December at 56 and June at 64. It may be expected that there could be slower business at these lower temperatures, especially for ice cream sales. 
 
 
   **Additional queries**:
-  1. abc
-  2. cdef
+  1. **Rainfall** - See Figure B and C below. Precipitation has a wide range throughout the past year, 2016 to 2017, and a possible impact to business may be indicated on the days of heaviest rainfall. Further analysis of the precipitation  data of previous years could be valuable information for evaluation.  
+  2. **Rain and Temps** - Recommend that consideration be given for a combined analysis of the temperature data with the precipitaton data over the same time periods. See Figures A, B and C below. The statistics for precipitation show that the typical daily rainfall is very consistent, with a mean of 0.18 and the quartiles having significantly tight spreads of 0 to 0.13. The min to max is quite large in comparison, from 0 to 6.7, so it is the maximums that are very significant. Information from the data analysis that would show relationship between the amount of precipitation and the temperature, especially during the winter months could prove valuable to decisions for prediction of success.
 
 
  **Figure A: Comparison of Temperatures June and December, 2010 to 2017, Oahu** <br> 
