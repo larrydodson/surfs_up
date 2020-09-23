@@ -63,6 +63,16 @@ UTMCC DataViz Module 9
 
 ![Temps-graph.png](https://github.com/larrydodson/surfs_up/blob/master/Temps-graph.png)
 
+
+
+| Summary Stats, Precipitation | Oahu Ranfall-precipitation, Aug 2016 to Aug 2017 |
+| :--- | ---: |
+| ![precipitation_stats.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_stats.png) | ![precipitation_line.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_line.png) |
+
+
+
+
+
 .
 
 .end 
