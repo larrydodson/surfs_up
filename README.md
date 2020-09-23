@@ -36,7 +36,7 @@ UTMCC DataViz Module 9
 
   ### Deliverable 1 - Determine the Summary Statistics for June
    
-   | Summary Stats - June | Notes |
+   | Summary Stats - June Temperatures | Notes |
    | :---:  | :---  |
    | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) | Represents Temperatures from June 2010 to June 2017. <br> <br> <br>  * Bmcd slsl flslkj ssl lslflsl. <br> * Ecds lsllsll jfkjlslk lsls ldfdd. <br> * Mcds lsllsll jfkjlslk lsls lsdff. |
   
@@ -47,7 +47,7 @@ UTMCC DataViz Module 9
 
   ### Deliverable 2 - Determine the Summary Statistics for December
   
-   | Summary Stats - December | Notes |
+   | Summary Stats - December Temperatures | Notes |
    | :---:  | :---  |
    | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) | Represents Temperatures from Dec 2010 through Dec 2016. <br> <br> <br>  * Amcd slsl flslkj ssl lslflsl. <br> * Gcds lsllsll jfkjlslk lsls lhhh. <br> * Dcds lsllsll jfkjlslk lsls lfgg. <br> abcdef alalf hih jkkk lklklhl. <br> alsldkjf <br> jjjkalld. |
    
@@ -65,8 +65,8 @@ UTMCC DataViz Module 9
 
 
 
-| Summary Stats, Precipitation | Oahu Ranfall-precipitation, Aug 2016 to Aug 2017 |
-| :--- | ---: |
+| Summary Stats, Precipitation | Oahu Precipitation, Aug 2016 to Aug 2017 |
+| :---: | :---: |
 | ![precipitation_stats.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_stats.png) | ![precipitation_line.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_line.png) |
 
 
