@@ -9,11 +9,7 @@ UTMCC DataViz Module 9
   * Results
   * Summary
  
-  
-   - Deliverable 1: Determine the Summary Statistics for June
-   - Deliverable 2: Determine the Summary Statistics for December
-   - Deliverable 3: A written report for the statistical analysis (This report) 
-  
+
 .
 
 ---  
@@ -24,6 +20,15 @@ UTMCC DataViz Module 9
 
    ### Purpose
    Creating a 
+   
+   
+   
+   
+     
+   - Deliverable 1: Determine the Summary Statistics for June
+   - Deliverable 2: Determine the Summary Statistics for December
+   - Deliverable 3: A written report for the statistical analysis (This report) 
+  
    
 
    ### Resources
@@ -64,7 +69,7 @@ UTMCC DataViz Module 9
   (Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.)
 
 
-
+![Temps-graph.png](https://github.com/larrydodson/surfs_up/blob/master/Temps-graph.png)
 
 .
 
