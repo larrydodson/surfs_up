@@ -14,13 +14,13 @@ UTMCC DataViz Module 9
 
 ## Overview 
   
-  We are planning to open a new surf and ice cream shop in Oahu Hawaii, a "Surf and Shake" shop. The new business' primary investor, W. Avy, is requesting an analysis of the weather on Oahu as part of the due diligence to predict the probable success of the business in this location. And if successful, to use the same approach when possibly expanding to other locations. We have weather data from the island from multiple locations that W. Avy has provided, and it includes temperatures and precipitation measurements for the past several years, this will be used in the analysis. 
+  We are planning to open a new surf and ice cream shop in Oahu Hawaii, a "Surf and Shake" shop. The new business' primary investor, W. Avy, is requesting an analysis of the weather (precipitation and temperatures), on Oahu as part of the due diligence based on location to predict the probable success of the business. And if successful, to use the same approach and code when possibly expanding to other locations. W. Avy has provided weather data from the island from multiple locations, and includes temperatures and precipitation measurements for the years 2010 through 2017, and this will be used for the analysis. 
 
    ### Purpose
-   To prepare an analysis of weather data over the past 12 months for Oahu Hawaii, specifically for temperatures and precipitations, in order to assist in a business decision to open a "Surf & Shake Shop" on the island. The analysis will help with understanding and predicting a successful outcome for traffic at the shop. The deliverables are these: 
+   To prepare an analysis of precipitation data over the past 12 months for Oahu Hawaii, in the months of June and December from 2010 through 2017, in order to assist in a business decision to open a "Surf & Shake Shop" on the island. The analysis will help with understanding and predicting a successful outcome for traffic at the shop. The deliverables are: 
    - Deliverable 1: Determine the Summary Statistics for June
    - Deliverable 2: Determine the Summary Statistics for December
-   - Deliverable 3: A written report for the statistical analysis (This report) 
+   - Deliverable 3: A written report for the statistical analysis (This Report). 
   
    
 
@@ -39,9 +39,7 @@ UTMCC DataViz Module 9
    | Summary Stats - June Temperatures | Notes |
    | :---:  | :---  |
    | ![June_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/June_Temps.png) | Represents Temperatures from June 2010 to June 2017. <br> <br> <br>  * Bmcd slsl flslkj ssl lslflsl. <br> * Ecds lsllsll jfkjlslk lsls ldfdd. <br> * Mcds lsllsll jfkjlslk lsls lsdff. |
-  
-  
-  
+
   
 .
 
@@ -50,7 +48,14 @@ UTMCC DataViz Module 9
    | Summary Stats - December Temperatures | Notes |
    | :---:  | :---  |
    | ![December_Temps.png](https://github.com/larrydodson/surfs_up/blob/master/December_Temps.png) | Represents Temperatures from Dec 2010 through Dec 2016. <br> <br> <br>  * Amcd slsl flslkj ssl lslflsl. <br> * Gcds lsllsll jfkjlslk lsls lhhh. <br> * Dcds lsllsll jfkjlslk lsls lfgg. <br> abcdef alalf hih jkkk lklklhl. <br> alsldkjf <br> jjjkalld. |
-   
+
+
+
+   #### Major Points of Analysis 
+   1. lkjjdl 
+   2. lls;a'oiigjsl lsll
+   3. blsllfjj akjf
+
    
 .  
 
@@ -60,12 +65,12 @@ UTMCC DataViz Module 9
 ## Summary 
   (Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.)
 
+ **Figure A**:
+ ![Temps-graph.png](https://github.com/larrydodson/surfs_up/blob/master/Temps-graph.png)
 
-![Temps-graph.png](https://github.com/larrydodson/surfs_up/blob/master/Temps-graph.png)
 
 
-
-| Summary Stats, Precipitation | Oahu Precipitation, Aug 2016 to Aug 2017 |
+| **Figure B: <br> Summary Stats, Precipitation** | **Figure C: <br> Oahu Precipitation, Aug 2016 to Aug 2017** |
 | :---: | :---: |
 | ![precipitation_stats.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_stats.png) | ![precipitation_line.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_line.png) |
 
