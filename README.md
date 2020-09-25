@@ -22,7 +22,7 @@ UTMCC DataViz Module 9
    - Deliverable 2: Determine the Summary Statistics for December
    - Deliverable 3: A written report for the statistical analysis (This Report). 
   
-   ![]()
+   ![station_map.png](https://github.com/larrydodson/surfs_up/blob/master/station_map.png)
 
    ### Resources
   * Data sources: hawaii.sqlite file
@@ -65,22 +65,23 @@ UTMCC DataViz Module 9
 
  ### 1. Additional Query #1:
  
-  | **Query** | **Stats** |
+  | **Query** <br> To extract the precipitation values for the months of June and December| **Summary Stats** |
   | :---: | :---: |
-  | ![June_Q1.png](https://github.com/larrydodson/surfs_up/blob/master/June_Q1.png) | ![June_prcp.png](https://github.com/larrydodson/surfs_up/blob/master/June_prcp.png) |
-  | ![Dec_Q1.png](https://github.com/larrydodson/surfs_up/blob/master/Dec_Q1.png) | ![December_prcp.png](https://github.com/larrydodson/surfs_up/blob/master/December_prcp.png) |
+  | ![June_Q1.png](https://github.com/larrydodson/surfs_up/blob/master/June_Q1.png) | from June 1, 2010 to June 30, 2017 <br> ![June_prcp.png](https://github.com/larrydodson/surfs_up/blob/master/June_prcp.png) |
+  | ![Dec_Q1.png](https://github.com/larrydodson/surfs_up/blob/master/Dec_Q1.png) | from Dec 1, 2010 through Dec 31, 2016 <br> ![December_prcp.png](https://github.com/larrydodson/surfs_up/blob/master/December_prcp.png) |
  
  
  
  
  ### 2. Additional Query #2:
  
-  | **Query Results** | **Chart & Query** |
-  | :---: | :---: |
-  | June: <br> Minimum =  <br> Maximum = <br> Avg = <br> Sum =  | ![June_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/June_prcpChart.png) | 
-  | December: <br> Minimum =  <br> Maximum = <br> Avg = <br> Sum =   | ![December_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/December_prcpChart.png) |  
+  | **Query Results** | **Chart**: June and December Precipitation Values <br> **Query**: To determine Max, Min, Ave and Sums of Precipitation for each month over the multi-year period. |
+  | :--- | :---: |
+  | June: <br> Minimum = 0.0 <br> Maximum = 1.39 <br> Avg = 0.15 <br> **Sum = 35.76** | ![June_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/June_prcpChart.png) | 
+  | December: <br> Minimum = 0.0 <br> Maximum = 3.14 <br> Avg = 0.25 <br> **Sum = 53.15** | ![December_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/December_prcpChart.png) |  
 
 
+.
 
 
  **Figure A: Comparison of Temperatures June and December, 2010 to 2017, Oahu** <br> 
