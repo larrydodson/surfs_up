@@ -22,7 +22,7 @@ UTMCC DataViz Module 9
    - Deliverable 2: Determine the Summary Statistics for December
    - Deliverable 3: A written report for the statistical analysis (This Report). 
   
-   
+   ![]()
 
    ### Resources
   * Data sources: hawaii.sqlite file
@@ -60,8 +60,27 @@ UTMCC DataViz Module 9
 
 
   **Additional queries**:
-  1. **Rainfall** - With weather analysis, it is probable that precipitation is the larger factor versus Temperatures as a predictor factor of the business' success as a cause to customer traffic, Please see Figure B and C below. Precipitation has a wide range throughout the past year, 2016 to 2017, and a possible impact to business may be indicated on the days of heaviest rainfall. Further analysis of the precipitation data of previous years could be valuable information for evaluation.  
-  2. **Rain and Temps** - Recommend that consideration be given for a combined analysis of the temperature data with the precipitaton data over the same time periods. See Figures A, B and C below. The statistics for precipitation show that the typical daily rainfall is very consistent, with a mean of 0.18 and the quartiles having significantly tight spreads of 0 to 0.13. The min to max is quite large in comparison, from 0 to 6.7, so it is the maximums that are very significant. Information from the data analysis that would show relationship between the amount of precipitation and the temperature, especially during the winter months could prove valuable to decisions for prediction of success.
+  * **Rainfall** - With weather analysis, it is probable that precipitation is the larger factor versus Temperatures as a predictor factor of the business' success as a cause to customer traffic, Please see Figure B and C below. Precipitation has a wide range throughout the past year, 2016 to 2017, and a possible impact to business may be indicated on the days of heaviest rainfall. Further analysis of the precipitation data of previous years could be valuable information for evaluation.  
+  * **Rain and Temps** - Recommend that consideration be given for a combined analysis of the temperature data with the precipitaton data over the same time periods. See Figures A, B and C below. The statistics for precipitation show that the typical daily rainfall is very consistent, with a mean of 0.18 and the quartiles having significantly tight spreads of 0 to 0.13. The min to max is quite large in comparison, from 0 to 6.7, so it is the maximums that are very significant. Information from the data analysis that would show relationship between the amount of precipitation and the temperature, especially during the winter months could prove valuable to decisions for prediction of success.
+
+ ### 1. Additional Query #1:
+ 
+  | **Query** | **Stats** |
+  | :---: | :---: |
+  | ![June_Q1.png](https://github.com/larrydodson/surfs_up/blob/master/June_Q1.png) | ![June_prcp.png](https://github.com/larrydodson/surfs_up/blob/master/June_prcp.png) |
+  | ![Dec_Q1.png](https://github.com/larrydodson/surfs_up/blob/master/Dec_Q1.png) | ![December_prcp.png](https://github.com/larrydodson/surfs_up/blob/master/December_prcp.png) |
+ 
+ 
+ 
+ 
+ ### 2. Additional Query #2:
+ 
+  | **Query Results** | **Chart & Query** |
+  | :---: | :---: |
+  | June: <br> Minimum =  <br> Maximum = <br> Avg = <br> Sum =  | ![June_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/June_prcpChart.png) | 
+  | December: <br> Minimum =  <br> Maximum = <br> Avg = <br> Sum =   | ![December_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/December_prcpChart.png) |  
+
+
 
 
  **Figure A: Comparison of Temperatures June and December, 2010 to 2017, Oahu** <br> 
@@ -72,6 +91,10 @@ UTMCC DataViz Module 9
 | **Figure B: <br> Summary Stats, Precipitation** | **Figure C: <br> Oahu Precipitation, Aug 2016 to Aug 2017** |
 | :---: | :---: |
 | ![precipitation_stats.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_stats.png) | ![precipitation_line.png](https://github.com/larrydodson/surfs_up/blob/master/precipitation_line.png) |
+
+
+
+
 
 
 .
