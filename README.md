@@ -57,6 +57,7 @@ UTMCC DataViz Module 9
 
   * Temperatures are relatively consistent and linear in comparison with each other, with deltas of 2-5 °F when comparing the months of June and December over the multiple years, see Figure A below. Barring a few typical weather spikes, these spreads should be consistent during the other months of the year, and not be major factor to the success of the new business. 
   * To note, the largest change in temperature is at the minimums for both months, with December at 56°F and June at 64°F. It may be expected that there could be slower business at these lower temperatures, especially for ice cream sales. 
+  * To note also, the available data date range is from January 1, 2010 through August 23, 2017. When using this data for Junes and Decembers, there is an additional month of June than December in the analysis, as December's data ends in 2016 and June's in 2017. 
   * The larger potential impact to business success will likely be due to precipitation. 
 
 
