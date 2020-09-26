@@ -57,12 +57,13 @@ UTMCC DataViz Module 9
 
   * Temperatures are relatively consistent and linear in comparison with each other, with deltas of 2-5 °F when comparing the months of June and December over the multiple years, see Figure A below. Barring a few typical weather spikes, these spreads should be consistent during the other months of the year, and not be major factor to the success of the new business. 
   * To note, the largest change in temperature is at the minimums for both months, with December at 56°F and June at 64°F. It may be expected that there could be slower business at these lower temperatures, especially for ice cream sales. 
-  * The larger impace to the prospect of business success is likely due to precipitation. 
+  * The larger potential impact to business success will likely be due to precipitation. 
 
 
   **Additional queries**:
-  * **Rainfall** - With weather analysis, it is probable that precipitation is the larger factor versus Temperatures as a predictor factor of the business' success as a cause to customer traffic, Please see Figure B and C below. Precipitation has a wide range throughout the past year, 2016 to 2017, and a possible impact to business may be indicated on the days of heaviest rainfall. Further analysis of the precipitation data of previous years could be valuable information for evaluation.  
-  * **Rain and Temps** - Recommend that consideration be given for a combined analysis of the temperature data with the precipitaton data over the same time periods. See Figures A, B and C below. The statistics for precipitation show that the typical daily rainfall is very consistent, with a mean of 0.18 and the quartiles having significantly tight spreads of 0 to 0.13. The min to max is quite large in comparison, from 0 to 6.7, so it is the maximums that are very significant. Information from the data analysis that would show relationship between the amount of precipitation and the temperature, especially during the winter months could prove valuable to decisions for prediction of success.
+  * **Precipitation** - With weather analysis, it is probable that precipitation is the larger factor versus Temperatures as a predictor factor of the business' success as a cause to customer traffic, Please see Figure B and C below. Precipitation has a wide range throughout the past year, 2016 to 2017, and a possible impact to business may be indicated on the days of heaviest rainfall. Further analysis of the precipitation data of previous years could be valuable information for evaluation.  
+  * **June versus December Precipitation** - Please see the information from additional two Queries below. What is shown is that December is a wetter month than June, in this time period. With data from the weather station USC00519281, we see a total for the period for Dec of 53.15 in comparison to June's total of 35.76. And, for Decembers to have higher precipitation for any given day v. days in June. This information may indicate that December and winter months may have lower business than other times of the year. However, this factor may be balanced out versus higher traffic from off-islander vacationers during the winter months that would increase traffic, and off-setting precipitation as a single factor. 
+  * **Precipitation and Temps** - Recommend that consideration be given for a combined analysis of the temperature data with the precipitaton data over the same time periods. See Figures A, B and C below. The statistics for precipitation show that the typical daily rainfall is very consistent, with a mean of 0.18 and the quartiles having significantly tight spreads of 0 to 0.13. The min to max is quite large in comparison, from 0 to 6.7, so it is the maximums that are very significant. Information from the data analysis that would show relationship between the amount of precipitation and the temperature, especially during the winter months could prove valuable to decisions for prediction of success.
 
  ### 1. Additional Query #1:
  
@@ -75,7 +76,7 @@ UTMCC DataViz Module 9
  
  
  ### 2. Additional Query #2:
- | Data: weather station USC00519281 <br> **Chart**: June and December Precipitation Values <br> **Query**: To determine Max, Min, Ave and Sums of Precipitation for each month over the multi-year period. |
+  | **Query Results** | Data: weather station USC00519281 <br> **Chart**: June and December Precipitation Values <br> **Query**: To determine Max, Min, Ave and Sums of Precipitation for each month over the multi-year period. |
   | :--- | :--- |
   | **June**: <br> Minimum = 0.0 <br> Maximum = 1.39 <br> Avg = 0.15 <br> **Sum = 35.76** | ![June_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/June_prcpChart.png) | 
   | **December**: <br> Minimum = 0.0 <br> Maximum = 3.14 <br> Avg = 0.25 <br> **Sum = 53.15** | ![December_prcpChart.png](https://github.com/larrydodson/surfs_up/blob/master/December_prcpChart.png) |  
